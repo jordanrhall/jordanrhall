@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jordanrhall
-- 👀 I’m interested in applied math and data science
+- 👀 I’m interested in applied math, statistics, data analytics, data science, and machine learning
 - 🌱 I’m currently learning all sorts of cool things in Python and SQL
 - 💞️ I’m looking to collaborate on anything, I suppose! Always looking to build skills & grow my network
 - 📫 How to reach me: jordanroberthall@gmail.com

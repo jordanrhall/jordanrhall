@@ -2,7 +2,7 @@
 
 Applied mathematician and data leader working at the intersection of quantitative methods, software, and business strategy.
 
-I currently lead data strategy at Westport Properties, where my work spans revenue management, data analytics, data science, data systems, technical leadership, and applied AI. Most of my professional work lives in proprietary systems, so this GitHub is a mix of research code, selected personal projects, and ongoing technical work.
+I currently lead data strategy at Westport Properties, where my work spans revenue management, data analytics, data science, data engineering, technical leadership, and AI. Most of my professional work lives in proprietary systems, so this GitHub is a mix of research code, selected personal projects, and ongoing technical work.
 
 ### Selected work
 
